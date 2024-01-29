@@ -147,8 +147,6 @@ img{
 
     .grid-container{
         grid-gap: 12px;
-        grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
-        
     }
 }
 
@@ -189,7 +187,6 @@ img{
 
     .grid-container{
         grid-gap: 20px;
-        grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
     }
 
 }
@@ -230,7 +227,6 @@ img{
 
     .grid-container{
         grid-gap: 25px;
-        grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
     }
 
 }
